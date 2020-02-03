@@ -8,12 +8,18 @@ header nav ul li, header h1 {margin: 20px;}
 .flex-column{display:flex;flex-direction:column;}
 
 
-.bg-white{background-color: white}
-.bg-gray{background-color: gray}
-.bg-black{background-color: black}
+.bg-red{background-color: red}
+.bg-blue{background-color: blue}
 
 
 body{
     margin: 0px;
     width: 100%;
 }
+
+section.flex-row.bg-red{
+    height: 50vh;
+    justify-content: center;
+}
+  
+    
