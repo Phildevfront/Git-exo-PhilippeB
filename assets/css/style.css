@@ -1,0 +1,19 @@
+/*RESET*/
+*{margin:0;padding:0}
+header{justify-content: space-between}
+header nav ul li, header h1 {margin: 20px;}
+
+/*CONTAINER*/
+.flex-row{display:flex;flex-direction:row; flex-wrap: wrap}
+.flex-column{display:flex;flex-direction:column;}
+
+
+.bg-white{background-color: white}
+.bg-gray{background-color: gray}
+.bg-black{background-color: black}
+
+
+body{
+    margin: 0px;
+    width: 100%;
+}
